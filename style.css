@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+.question-cliked{
+    background-color: blue;
+    border-radius: 30px;
+    border: 6px dashed pink;
+}
+
+p{
+    visibility: hidden;
+}
+.show-response{
+    visibility: visible;
+    opacity: 1;
+    transform: translateX(0);
+}
